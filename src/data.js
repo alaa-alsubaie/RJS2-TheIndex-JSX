@@ -1,7 +1,7 @@
 const authors = [
   {
-    first_name: "J.K.",
-    last_name: "Rowling",
+    first_name: "A1",
+    last_name: "Group A",
     imageUrl: "https://nation.com.pk/digital_images/large/2015-05-10/jk-rowling-believes-in-standing-up-to-bullies-1431261222-3596.jpeg",
     books: [
       {
@@ -35,8 +35,8 @@ const authors = [
     ]
   },
   {
-    first_name: "George R.R.",
-    last_name: "Martin",
+    first_name: "B1",
+    last_name: "Group B",
     imageUrl: "https://typeset-beta.imgix.net/elite-daily/2016/03/06144207/elite-daily-George-RR-Martin.jpg?w=800&h=800&auto=format&q=70&fit=crop&crop=faces",
     books: [
       {
@@ -62,8 +62,8 @@ const authors = [
     ]
   },
   {
-    first_name: "J.R.R",
-    last_name: "Tolkein",
+    first_name: "C1",
+    last_name: "Group C",
     imageUrl: "https://images.8tracks.com/cover/i/010/010/920/tolkeinbigger-2362.jpg?rect=166,0,500,500&q=98&fm=jpg&fit=max",
     books: [
       {
